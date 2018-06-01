@@ -11,7 +11,7 @@ Predicted: not cancer.
 
 # Client
 
-webuser@machine-learn01 ~/a/m/socket_server> python ml_client.py
+xxx@machine-learn01 ~/a/m/socket_server> python ml_client.py
 b'not cancer.'
 b'not cancer.'
 b'not cancer.'
